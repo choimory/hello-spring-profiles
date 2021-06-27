@@ -1,0 +1,4 @@
+spring:
+  profiles: dev
+profile:
+  print: YOUR PROFILE IS DEV

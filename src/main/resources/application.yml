@@ -1,0 +1,16 @@
+global:
+  print: HELLO SPRING PROFILE
+profile:
+  print: YOUR PROFILE IS GLOBAL
+---
+spring:
+  profiles: type-a
+profile:
+  print: YOUR PROFILE IS TYPE-A
+---
+spring:
+  profiles: type-b
+profile:
+  print: YOUR PROFILE IS TYPE-B
+
+
