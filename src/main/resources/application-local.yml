@@ -1,0 +1,4 @@
+spring:
+  profiles: local
+profile:
+  print: YOUR PROFILE IS LOCAL
