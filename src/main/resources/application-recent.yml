@@ -1,0 +1,6 @@
+spring:
+  config:
+    activate:
+      on-profile: recent
+profile:
+  print: YOUR PROFILE IS RECENT
